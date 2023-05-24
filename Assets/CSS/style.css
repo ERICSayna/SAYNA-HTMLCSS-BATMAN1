@@ -1,7 +1,6 @@
-div{
-    background-color: black;
-    width: 200px;
-    height: 200px;
-    padding: 20px;
-    margin: 40px;
+img{
+    background-color:black;
+}
+body{
+    background-color: aqua;
 }
